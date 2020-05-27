@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top_winery.png);
   background-size: cover;
-  color: black;
+  color: #5f5d60;
   text-align: center;
 }
 
@@ -85,7 +85,7 @@ header {
 }
 
 .logo {
-  width: 124px;
+  width: 248px;
   margin-top: 20px;
 }
 
@@ -178,7 +178,7 @@ header {
 }
 
 footer img {
-  width: 125px;
+  width: 250px;
 }
 
 footer p {
