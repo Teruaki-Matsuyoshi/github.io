@@ -31,12 +31,21 @@ a {
   color: black;
 }
 
+.top-wrapper h3 {
+  opacity: 0.7;
+  font-size: 16px;
+  margin-bottom: 40px;
+  color: #c71585;
+  background-color: snow;
+  background-size: auto;
+}
 .top-wrapper p {
   opacity: 0.7;
   font-size: 16px;
   margin-bottom: 40px;
   color: #c71585;
   background-color: snow;
+  background-size: auto;
 }
 
 .btn-wrapper {
