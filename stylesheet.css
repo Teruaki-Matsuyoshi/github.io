@@ -35,8 +35,8 @@ a {
   opacity: 1;
   font-size: 20px;
   margin-bottom: 40px;
-  color: #3b5998;
-  font-wight:bold
+  color: #c71585;
+  font-weight: bold;
 }
 
 .btn-wrapper {
@@ -94,6 +94,14 @@ header {
 
 .header-left {
   float: left;
+}
+.header-left a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: #c71585;
+  display: block;
+  float: left;
+  transition: all 0.5s;
 }
 
 .header-right {
