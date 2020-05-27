@@ -37,7 +37,7 @@ a {
   margin-bottom: 40px;
   color: #c71585;
   background-color: snow;
-  background-size: auto;
+  background-size: cover;
 }
 .top-wrapper p {
   opacity: 0.7;
@@ -45,7 +45,7 @@ a {
   margin-bottom: 40px;
   color: #c71585;
   background-color: snow;
-  background-size: auto;
+  background-size: cover;
 }
 
 .btn-wrapper {
