@@ -87,7 +87,8 @@ header {
 
 .logo {
   width: 248px;
-  margin-top: 0px;
+  margin-top: auto 0;
+  line-height: 65px;
 }
 
 .header-left {
