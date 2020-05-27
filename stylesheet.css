@@ -32,10 +32,11 @@ a {
 }
 
 .top-wrapper p {
-  opacity: 0.7;
+  opacity: 1;
   font-size: 20px;
   margin-bottom: 40px;
   color: white;
+  font-wight:bold
 }
 
 .btn-wrapper {
