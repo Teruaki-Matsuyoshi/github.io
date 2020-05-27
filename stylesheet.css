@@ -87,7 +87,7 @@ header {
 
 .logo {
   width: 248px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .header-left {
@@ -179,7 +179,7 @@ header {
 }
 
 footer img {
-  width: 250px;
+  width: 50%;
 }
 
 footer p {
