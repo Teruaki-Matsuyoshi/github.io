@@ -36,6 +36,7 @@ a {
   font-size: 16px;
   margin-bottom: 40px;
   color: #c71585;
+  display: inline-block;
   background-color: snow;
   border-radius: 4px;
   padding: 8px 24px;
@@ -45,6 +46,7 @@ a {
   font-size: 16px;
   margin-bottom: 40px;
   color: #c71585;
+  display: inline-block;
   background-color: snow;
   border-radius: 4px;
   padding: 8px 24px;
